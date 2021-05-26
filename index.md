@@ -3,4 +3,4 @@
 
 The video above is a code review, performed by me on three seperate projects that were completed at SNHU.
 
-![](test.png)
+![alt text for screen readers](/images/test.png "Text to show on mouseover")
