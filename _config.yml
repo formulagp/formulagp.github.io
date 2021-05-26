@@ -7,4 +7,4 @@ defaults:
     values:
       image: true
 
-title-img: "assets/img/Logo.png"
+title-img: /assets/img/Logo.png
