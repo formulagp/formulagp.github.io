@@ -1,0 +1,4 @@
+# About me!
+
+My name is Jay Authement and I live in New Orleans, Louisiana. I am currently finishing my Computer Science degree with a concentration in software engineering
+here at Southern New Hampshire University. 
