@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Jay Authement's ePortfolio
 description: Welcome to my ePortfolio page! Below contains some of my projects completed at SNHU, feel free to browse around!
-logo: /assets/images/CircleLogo.png
-title-img: /assets/images/CircleLogo.png
+<div class="container">
+  <img src="assets/images/CircleLogo.png" alt="Cinque Terre" width="1000" height="300">
+  <div class="topleft">Top Left</div>
+</div>
