@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Test Title
 description: teset sede
 image: /assets/images/CircleLogo.png
