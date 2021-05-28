@@ -1,9 +1,7 @@
 ---
-title: Test Title
-description: teset sede
-image: /assets/images/CircleLogo.png
+title: Jay's ePortfolio
 ---
-<p><h1>{{ post.title }}</h1></p>
+
 # Code Review
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vrjaMnJcEUM/0.jpg)](https://www.youtube.com/watch?v=vrjaMnJcEUM&t=1 "Code Review")
 
