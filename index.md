@@ -12,5 +12,14 @@ The video above is a code review, performed by me on three seperate projects tha
 
 ![piWeatherGif](assets/images/piWeather.gif)
 
+# Upgraded Vector Sorting
+
+![UpgradedVectorSortGif](assets/images/enhancedVectorSort.gif)
+
+# MongoDB Database
+
+![MongoDBGif](assets/images/MongoDB.gif)
+
+
 
 [About me](about.md)
