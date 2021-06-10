@@ -12,7 +12,7 @@ The video above is a code review, performed by me on three seperate projects tha
 
 ![piWeatherGif](assets/images/piWeather.gif)
 
-This project is the Enhanced Pi Weather Station created with a Raspberry Pi and a GrovePi hardware kit from Dexter Industries.
+This first project is the Pi Weather Station created with a Raspberry Pi 4 computer and a GrovePi hardware kit from Dexter Industries. It's purpose is to continuously collect temperature and humidity data from a sensor and output all the gathered data to a JSON file once the program is stopped. There are LED's connected as well that can show the user exactly what conditions are being read from the sensors and will even shutdown at night, once the light sensor no longer detects sunlight. Below is a link to the GitHub repository that contains everything needed to get the program running!
 
 [Enhanced Pi Weather Station](https://github.com/formulagp/Pi-Weather-Station)
 
