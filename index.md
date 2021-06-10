@@ -12,6 +12,10 @@ The video above is a code review, performed by me on three seperate projects tha
 
 ![piWeatherGif](assets/images/piWeather.gif)
 
+This project is the Enhanced Pi Weather Station created with a Raspberry Pi and a GrovePi hardware kit from Dexter Industries.
+
+[Enhanced Pi Weather Station](https://github.com/formulagp/Pi-Weather-Station)
+
 # Upgraded Vector Sorting
 
 ![UpgradedVectorSortGif](assets/images/enhancedVectorSort.gif)
