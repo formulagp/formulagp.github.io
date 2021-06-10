@@ -20,6 +20,10 @@ This first project is the Pi Weather Station created with a Raspberry Pi 4 compu
 
 ![UpgradedVectorSortGif](assets/images/enhancedVectorSort.gif)
 
+The second project presented here is a program that was created to show a comprehension of some commonly used algorithms in the computer science industry. Using a provided CSV file, a vector is created that stores all the data it contains in an unsorted fashion. Using the menu created, the user will have the options to first load the CSV file into a vector, then perform whichever sort function this wish to use. In this program the algorithms available for use are the selection sort, the upgraded selection sort, or the quick sort function. Each will display the time it takes to successfully sort the data after running. To verify the sorts were completed successfully, the user then has the ability to choose display bids again and see that the elements are now sorted. A link to the GitHub repository is below!  
+
+[Upgraded Selection Sort](https://github.com/formulagp/Upgraded-Selection-Sort)
+
 # MongoDB Database
 
 ![MongoDBGif](assets/images/MongoDB.gif)
