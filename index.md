@@ -28,6 +28,8 @@ The second project presented here is a program that was created to show a compre
 
 ![MongoDBGif](assets/images/MongoDB.gif)
 
+Finally, the MongoDB Database project shown above presents an excellent opportunity to display my skills working with databases. This particular project utilizes the NoSQL database program MongoDB along with the Python programming language to perform CRUD operations on provided databases, creating a powerful stack program. The program allows the user to select and connect to one of two databases, which can be imported into MongoDB from the repository link below. Once connected, a second menu allows the user to either create, read, update, or delete data in the current database of their choice. Once finished, the user may disconnect and exit the database, where they are allowed to select another database to connect to. Again, the user is able to perform CRUD operations or disconnect from the database. Once finished, the user may select the exit option to properly shutdown the prgoram.
+
 [MongoDB Database](https://github.com/formulagp/MongoDB-Database)
 
 [About me](about.md)
