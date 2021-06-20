@@ -9,10 +9,15 @@ The video above is a code review, performed by me on three seperate projects tha
 #
 
 # Pi Weather Station
+### Software Design and Engineering
 
 ![piWeatherGif](assets/images/piWeather.gif)
 
-This first project is the Pi Weather Station created with a Raspberry Pi 4 computer and a GrovePi hardware kit from Dexter Industries. It's purpose is to continuously collect temperature and humidity data from a sensor and output all the gathered data to a JSON file once the program is stopped. There are LED's connected as well that can show the user exactly what conditions are being read from the sensors and will even shutdown at night, once the light sensor no longer detects sunlight. Below is a link to the GitHub repository that contains everything needed to get the program running!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Pi Weather Station project is a weather monitoring program created with a Raspberry Pi 4 computer, the Python programming language, and a GrovePi hardware kit purchased from Dexter Industries. It's purpose is to continuously collect temperature and humidity data from a sensor and output all the gathered information to a JSON file once the program is stopped. There are LED's connected as well that show the user exactly what the weather conditions are based on what colors are illuminated at the time. The Pi Weather Station will even shutdown at night, once the attached light sensor no longer detects sunlight.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an opportunity to showcase my skills and abilities in software design, the program has since been enhanced and upgraded to version [1.1.0]. Two new features have been added in the form of new Python functions that give the machine a startup and shutdown sequence. When the Pi Weather Station is booted up, a startup sequence runs which now displays a welcome message to the user and flashes the green LED two times, indicating it is in startup mode. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below is a link to the GitHub repository that contains the newly enhanced program along with the original for comparison. 
 
 [Enhanced Pi Weather Station](https://github.com/formulagp/Pi-Weather-Station)
 
