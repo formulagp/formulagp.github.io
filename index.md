@@ -6,8 +6,8 @@ title: Jay's ePortfolio
 ### Reviewing previous projects and discovering ways to enhance them
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vrjaMnJcEUM/0.jpg)](https://www.youtube.com/watch?v=vrjaMnJcEUM&t=1 "Code Review")
 
-The video above is a code review, performed by me on three seperate projects that were completed throughout my courses at SNHU. This initial review was designed to find any flaws in these previous assignments and use the different skills that I have acquired throughout my time at Southern New Hampshire University to enhance each project. The results of this code review have led to updated versions of each project, which are linked and described below.
-#
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The video above is a code review, performed by me on three seperate projects that were completed throughout my courses at Southern New Hampshire University. This initial review was designed to find any flaws in these previous assignments and use the different skills that I have acquired throughout my time at SNHU to enhance each project. The results of this code review have led to updated versions of each project, which are linked and described below.
+
 
 # Pi Weather Station
 ### Software Design and Engineering
@@ -22,13 +22,16 @@ The video above is a code review, performed by me on three seperate projects tha
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below is a link to the GitHub repository that contains the newly enhanced program along with the original for comparison. 
 
-[Enhanced Pi Weather Station](https://github.com/formulagp/Pi-Weather-Station)
+[Pi Weather Station Repository](https://github.com/formulagp/Pi-Weather-Station)
 
 # Upgraded Vector Sorting
+### Algorithm Design / Structure
 
 ![UpgradedVectorSortGif](assets/images/enhancedVectorSort.gif)
 
-The second project presented here is a program that was created to show a comprehension of some commonly used algorithms in the computer science industry. Using a provided CSV file, a vector is created that stores all the data it contains in an unsorted fashion. Using the menu created, the user will have the options to first load the CSV file into a vector, then perform whichever sort function this wish to use. In this program the algorithms available for use are the selection sort, the upgraded selection sort, or the quick sort function. Each will display the time it takes to successfully sort the data after running. To verify the sorts were completed successfully, the user then has the ability to choose display bids again and see that the elements are now sorted. A link to the GitHub repository is below!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second project presented here is a program that was specifically created to show how some of the more commonly used algorithms in the computer science industry are created and used. This program is written in C++ and begins by presenting the user with a menu of options including load bids, display bids, perform selection sort on bids, perform upgraded selection sort on bids, perform quicksort on bids, or exit the program. In the original program, v[1.0.0], the only algorithms available for use were the selection sort and the quick sort function. In v[1.1.0], the upgraded selection sort function was added. When any one is chosen, the algorithm will run on the loaded data and sort each element by name. The program will then display the time it took to successfully sort the data after running, given in clock ticks and seconds. This allows the user to actually see how the algorithms compare in performance to accomplish the same task. To verify the sorts were completed successfully, the user then has the ability to choose display bids again and see that the elements are now in a sorted order.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was chosen to display my comprehension of algorithm design and structures, as it's sole purpose is strictly to run created algorithms on a set a data that is given. This also 
 
 [Upgraded Selection Sort](https://github.com/formulagp/Upgraded-Selection-Sort)
 
