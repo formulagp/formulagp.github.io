@@ -20,9 +20,11 @@ title: Jay's ePortfolio
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The original scenario for this assignment was to continuously build upon features in each sprint for a stakeholder who's requirements would constantly change. As a developer, it was my job to produce a product that the client was happy with, which would eventually become the Pi Weather Station. Adding the new features to the program was fairly straight forward, but required a thorough understanding of how Python defines functions, performs loops, and interacts with the GrovePi hardware. That is why this particular project was chosen to enhance and use for my comprehension of software design. The code performs every task desgined as intended, such as gathering data from the correct port and outputting it to the JSON file or lighting the correct LED for the correct amount of time. The enhancements added in v[1.1.0] attest to this comprehension and leads to a stronger weather station program. Coding best practices were used and I believe it shows through the completeness of this project.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below is a link to the GitHub repository that contains the newly enhanced program along with the original for comparison. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below is a link to the GitHub repository that contains the newly enhanced program and also a link to the original for comparison. 
 
 [Pi Weather Station Repository](https://github.com/formulagp/Pi-Weather-Station)
+
+[Original Pi Weather Station v[1.0.0]](https://github.com/formulagp/Pi-Weather-Station/blob/main/OriginalPiWeatherStation.py)
 
 # Upgraded Vector Sorting
 ### Algorithm Design / Structure
@@ -35,9 +37,11 @@ title: Jay's ePortfolio
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The problem with integrating a new method, especially an algorithm, is making sure that all data input required to perform the actual sort match. This program originally created a vector to house all the elements from the CSV file, so pulling this data for use with the new upgraded selection algorithm was simple. The hardest part of implementing this algorithm was mentally picturing how the loops are occuring to properly write the code necessary. It's very easy to get lost while trying to understand exactly what part of the loop needs to increment or decrement, which is why drawing out exactly what the code is doing line by line can help see what step is performing what. Understanding how the loop is supposed to work may be easy, but actually designing it to work with a previously created program proved quite difficult. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The link below contains the Github repository that includes the enhanced program with the upgraded selection sort function, along with the original program for comparison purposes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The links below contain the Github repository that includes the enhanced program with the upgraded selection sort function, along with the original program for comparison purposes.
 
 [Upgraded Selection Sort Repository](https://github.com/formulagp/Upgraded-Selection-Sort)
+
+[Original Vector Sort v[1.0.0]](https://github.com/formulagp/Upgraded-Selection-Sort/blob/master/OriginalVectorSorting.cpp)
 
 # MongoDB Database
 ### Database Design
@@ -50,11 +54,11 @@ title: Jay's ePortfolio
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The biggest hurdle when creating this enhanced update was getting the login for the second database correct. Many times, the program would log the user in to the database of their choice, but would not properly log out and login to the next database. This was eventually overcome by creating a completely new client in the Python code that would strictly connect to the second database. After creating this, the program worked as intended and allowed the user to freely switch back and forth between databases, while giving them the correct secondary menu for the appropriate CRUD options. With this first issue came another issue that would not use the correct CRUD menu, such as logging into the AAC database, but still using the CRUD functions developed for the Bids database. Again, this issue was corrected by properly creating a second user login for the Bids database. Pushing past these complications has led to the development of an enhanced program that can freely interact with MongoDB databases.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below is the link to this project's repository, where the program can be downloaded. It also contains the original program before the enhancements as well for comparison purposes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below is the link to this project's repository, where the program can be downloaded. The original project version 1.0.0 is also linked for comparison purposes.
 
 [MongoDB Database Repository](https://github.com/formulagp/MongoDB-Database)
 
-[Original MongoDB Database v[1.0.0](https://github.com/formulagp/MongoDB-Database/blob/main/OriginalMongoDB.py)
+[Original MongoDB Database v[1.0.0]](https://github.com/formulagp/MongoDB-Database/blob/main/OriginalMongoDB.py)
 
 
 
