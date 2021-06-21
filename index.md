@@ -2,12 +2,28 @@
 title: Jay's ePortfolio
 ---
 
+# Professional Assessment
+### Link containing an overview of my journey through Southern New Hampshire University
+
+[Professional Self-Assessment](https://github.com/formulagp/formulagp.github.io/blob/main/assets/images/Professional_Self-Assessment%20-%20JayAuthement.docx)
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspThe link above takes takes you to my Professional Self-Assessment that was created to be read alongside this ePortfolio. It contains relevant information regarding my future career choices, skills learned from my courses, and a general overview of my journey through the Computer Science Program at Southern New Hampshire University.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Code Review
 ### Reviewing previous projects and discovering ways to enhance them
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vrjaMnJcEUM/0.jpg)](https://www.youtube.com/watch?v=vrjaMnJcEUM&t=1 "Code Review")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The video above is a code review, performed by me on three seperate projects that were completed throughout my courses at Southern New Hampshire University. This initial review was designed to find any flaws in these previous assignments and use the different skills that I have acquired throughout my time at SNHU to enhance each project. The results of this code review have led to updated versions of each project, which are linked and described below.
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Pi Weather Station
 ### Software Design and Engineering
@@ -26,6 +42,11 @@ title: Jay's ePortfolio
 
 [Original Pi Weather Station v[1.0.0]](https://github.com/formulagp/Pi-Weather-Station/blob/main/OriginalPiWeatherStation.py)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Upgraded Vector Sorting
 ### Algorithm Design / Structure
 
@@ -42,6 +63,11 @@ title: Jay's ePortfolio
 [Upgraded Selection Sort Repository](https://github.com/formulagp/Upgraded-Selection-Sort)
 
 [Original Vector Sort v[1.0.0]](https://github.com/formulagp/Upgraded-Selection-Sort/blob/master/OriginalVectorSorting.cpp)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # MongoDB Database
 ### Database Design
@@ -60,6 +86,10 @@ title: Jay's ePortfolio
 
 [Original MongoDB Database v[1.0.0]](https://github.com/formulagp/MongoDB-Database/blob/main/OriginalMongoDB.py)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-
+## A link containing some information about myself!
 [About me](about.md)
