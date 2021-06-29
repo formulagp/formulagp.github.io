@@ -2,13 +2,6 @@
 title: Jay's ePortfolio
 ---
 
-# Professional Assessment
-### Link containing an overview of my journey through Southern New Hampshire University
-
-[Professional Self-Assessment](https://github.com/formulagp/formulagp.github.io/blob/main/assets/images/Professional_Self-Assessment%20-%20JayAuthement.docx)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The link above takes takes you to my Professional Self-Assessment that was created to be read alongside this ePortfolio. It contains relevant information regarding my future career choices, skills learned from my courses, and a general overview of my journey through the Computer Science Program at Southern New Hampshire University.
-
 &nbsp;
 &nbsp;
 &nbsp;
