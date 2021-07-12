@@ -7,17 +7,6 @@ title: Jay's ePortfolio
 &nbsp;
 &nbsp;
 
-# Code Review
-### Reviewing previous projects and discovering ways to enhance them
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vrjaMnJcEUM/0.jpg)](https://www.youtube.com/watch?v=vrjaMnJcEUM&t=1 "Code Review")
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The video above is a code review, performed by me on three seperate projects that were completed throughout my courses at Southern New Hampshire University. This initial review was designed to find any flaws in these previous assignments and use the different skills that I have acquired throughout my time at SNHU to enhance each project. The results of this code review have led to updated versions of each project, which are linked and described below.
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 # Pi Weather Station
 ### Software Design and Engineering
 
